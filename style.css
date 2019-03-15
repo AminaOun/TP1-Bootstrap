@@ -1,0 +1,58 @@
+
+.header{ 
+    background:grey ;
+    padding: 10px;
+}
+.main{
+    background: lightgrey;
+    padding: 0px;
+}
+body{
+    margin: 0%; 
+}
+.header a{
+    padding: 0 10px;
+}
+.header img{
+    max-width: 100%;
+    max-height: 500px;
+}
+.card{
+    margin-top: 10px;
+}
+.btn{
+  background:grey;
+  color:white;
+}
+
+.footer{
+    border: 1px solid black ;
+    background-color: grey;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.form-group{
+    margin: 10px;
+}
+.btn{
+    margin: 10px;
+}
+.propos{
+    margin: 10px;
+    padding: 40px; 
+}
+.propos h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
